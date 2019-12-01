@@ -1,0 +1,11 @@
+C:\Users\Hamza_PC\source\repos\FormAssignment\FormAssignment\bin\Debug\FormAssignment.exe.config
+C:\Users\Hamza_PC\source\repos\FormAssignment\FormAssignment\bin\Debug\FormAssignment.exe
+C:\Users\Hamza_PC\source\repos\FormAssignment\FormAssignment\bin\Debug\FormAssignment.pdb
+C:\Users\Hamza_PC\source\repos\FormAssignment\FormAssignment\obj\Debug\FormAssignment.csprojAssemblyReference.cache
+C:\Users\Hamza_PC\source\repos\FormAssignment\FormAssignment\obj\Debug\FormAssignment.Form1.resources
+C:\Users\Hamza_PC\source\repos\FormAssignment\FormAssignment\obj\Debug\FormAssignment.Properties.Resources.resources
+C:\Users\Hamza_PC\source\repos\FormAssignment\FormAssignment\obj\Debug\FormAssignment.csproj.GenerateResource.cache
+C:\Users\Hamza_PC\source\repos\FormAssignment\FormAssignment\obj\Debug\FormAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Hamza_PC\source\repos\FormAssignment\FormAssignment\obj\Debug\FormAssignment.exe
+C:\Users\Hamza_PC\source\repos\FormAssignment\FormAssignment\obj\Debug\FormAssignment.pdb
+C:\Users\Hamza_PC\source\repos\FormAssignment\FormAssignment\obj\Debug\FormAssignment.AttendanceMark.resources
